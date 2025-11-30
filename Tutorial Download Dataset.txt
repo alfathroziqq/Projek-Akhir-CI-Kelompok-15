@@ -1,0 +1,12 @@
+📂 Link Download Dataset
+
+Dataset genotipe (file PLINK: *.bed, *.bim, *.fam) yang digunakan dalam proyek ini dapat diunduh melalui link berikut:
+
+https://drive.google.com/drive/folders/1qLF5JjXDHi9jP2QkzN8HT2bwVceSzQRo?hl=id
+
+Ketiga file utama:
+- *.bed
+- *.bim
+- *.fam
+
+Simpan file-file tersebut di direktori kerja yang sama dengan notebook sebelum menjalankan kode.
